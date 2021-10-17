@@ -1,0 +1,7 @@
+C:\Users\Laris\source\repos\KlasaXZadatak3\KlasaXZadatak3\bin\Debug\KlasaXZadatak3.exe.config
+C:\Users\Laris\source\repos\KlasaXZadatak3\KlasaXZadatak3\bin\Debug\KlasaXZadatak3.exe
+C:\Users\Laris\source\repos\KlasaXZadatak3\KlasaXZadatak3\bin\Debug\KlasaXZadatak3.pdb
+C:\Users\Laris\source\repos\KlasaXZadatak3\KlasaXZadatak3\obj\Debug\KlasaXZadatak3.csprojAssemblyReference.cache
+C:\Users\Laris\source\repos\KlasaXZadatak3\KlasaXZadatak3\obj\Debug\KlasaXZadatak3.csproj.CoreCompileInputs.cache
+C:\Users\Laris\source\repos\KlasaXZadatak3\KlasaXZadatak3\obj\Debug\KlasaXZadatak3.exe
+C:\Users\Laris\source\repos\KlasaXZadatak3\KlasaXZadatak3\obj\Debug\KlasaXZadatak3.pdb

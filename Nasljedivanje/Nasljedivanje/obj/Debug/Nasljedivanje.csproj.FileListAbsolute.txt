@@ -1,0 +1,14 @@
+C:\Users\Laris\source\repos\Nasljedivanje\Nasljedivanje\bin\Debug\Nasljedivanje.exe.config
+C:\Users\Laris\source\repos\Nasljedivanje\Nasljedivanje\bin\Debug\Nasljedivanje.exe
+C:\Users\Laris\source\repos\Nasljedivanje\Nasljedivanje\bin\Debug\Nasljedivanje.pdb
+C:\Users\Laris\source\repos\Nasljedivanje\Nasljedivanje\obj\Debug\Nasljedivanje.csprojAssemblyReference.cache
+C:\Users\Laris\source\repos\Nasljedivanje\Nasljedivanje\obj\Debug\Nasljedivanje.csproj.CoreCompileInputs.cache
+C:\Users\Laris\source\repos\Nasljedivanje\Nasljedivanje\obj\Debug\Nasljedivanje.exe
+C:\Users\Laris\source\repos\Nasljedivanje\Nasljedivanje\obj\Debug\Nasljedivanje.pdb
+C:\Users\Laris\Desktop\1\Nasljedivanje\Nasljedivanje\bin\Debug\Nasljedivanje.exe.config
+C:\Users\Laris\Desktop\1\Nasljedivanje\Nasljedivanje\bin\Debug\Nasljedivanje.exe
+C:\Users\Laris\Desktop\1\Nasljedivanje\Nasljedivanje\bin\Debug\Nasljedivanje.pdb
+C:\Users\Laris\Desktop\1\Nasljedivanje\Nasljedivanje\obj\Debug\Nasljedivanje.csprojAssemblyReference.cache
+C:\Users\Laris\Desktop\1\Nasljedivanje\Nasljedivanje\obj\Debug\Nasljedivanje.csproj.CoreCompileInputs.cache
+C:\Users\Laris\Desktop\1\Nasljedivanje\Nasljedivanje\obj\Debug\Nasljedivanje.exe
+C:\Users\Laris\Desktop\1\Nasljedivanje\Nasljedivanje\obj\Debug\Nasljedivanje.pdb
